@@ -1,0 +1,11 @@
+C:\Users\Maria Luiza\Documents\Luiza\musica\musica\obj\Debug\netcoreapp3.1\musica.csprojAssemblyReference.cache
+C:\Users\Maria Luiza\Documents\Luiza\musica\musica\obj\Debug\netcoreapp3.1\musica.AssemblyInfoInputs.cache
+C:\Users\Maria Luiza\Documents\Luiza\musica\musica\obj\Debug\netcoreapp3.1\musica.AssemblyInfo.cs
+C:\Users\Maria Luiza\Documents\Luiza\musica\musica\bin\Debug\netcoreapp3.1\musica.exe
+C:\Users\Maria Luiza\Documents\Luiza\musica\musica\bin\Debug\netcoreapp3.1\musica.deps.json
+C:\Users\Maria Luiza\Documents\Luiza\musica\musica\bin\Debug\netcoreapp3.1\musica.runtimeconfig.json
+C:\Users\Maria Luiza\Documents\Luiza\musica\musica\bin\Debug\netcoreapp3.1\musica.runtimeconfig.dev.json
+C:\Users\Maria Luiza\Documents\Luiza\musica\musica\bin\Debug\netcoreapp3.1\musica.dll
+C:\Users\Maria Luiza\Documents\Luiza\musica\musica\bin\Debug\netcoreapp3.1\musica.pdb
+C:\Users\Maria Luiza\Documents\Luiza\musica\musica\obj\Debug\netcoreapp3.1\musica.dll
+C:\Users\Maria Luiza\Documents\Luiza\musica\musica\obj\Debug\netcoreapp3.1\musica.pdb
